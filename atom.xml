@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Trinea]]></title>
+  <link href="http://www.trinea.cn/atom.xml" rel="self"/>
+  <link href="http://www.trinea.cn/"/>
+  <updated>2013-01-05T01:56:25+08:00</updated>
+  <id>http://www.trinea.cn/</id>
+  <author>
+    <name><![CDATA[Trinea]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[my first blog]]></title>
+    <link href="http://www.trinea.cn/blog/2013/01/05/my-first-blog/"/>
+    <updated>2013-01-05T00:34:00+08:00</updated>
+    <id>http://www.trinea.cn/blog/2013/01/05/my-first-blog</id>
+    <content type="html"><![CDATA[<p>just have a try fro my first blog</p>
+]]></content>
+  </entry>
+  
+</feed>
